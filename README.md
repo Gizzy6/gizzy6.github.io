@@ -17,3 +17,11 @@ Step 7: Commit your changes by writing a summary of the changes you made in the 
 and clicking on the "Commit" button in the bottom left corner of the screen.
 Step 8: Push your changes to Github by clicking on the "Push origin" button in the top right corner of
 the screen
+# About me
+- I am studying Cyber Security
+- My goal in my career is to gain the experience and knowledge needed to get my masters in Cyberpsychology
+- In my free time i ike to prouduce music and read books
+## Websites I recommend
+- When you want to remix an existing song and want to pick out specific intruments or vocals in the song you can [seperate these sounds using lalal.ai](www.lalal.ai) 
+- When getting ready to prouduce a track and you need ideas or loops to get started you can find [fun and unique sounds at looperman](www.looperman.com)
+- There are many sources you can use to find or watch the news. I have a favriote youtube channel whom cover all types of topics from politics, to hacker news, to how they see the world being changed by AI in our futrue. [Vice News contains so any interesting topics that you dont always see on regular news cover](https://www.youtube.com/@VICENews)
